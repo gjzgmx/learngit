@@ -6,3 +6,4 @@ new add
 test content
 test branch
 file confict test
+test branch file confict
